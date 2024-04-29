@@ -4,7 +4,7 @@
 The Minimum Viable Product (MVP) of the AsciiArtify project is geared towards launching a fundamental application via ArgoCD. This application will monitor changes from the GitHub repository go-demo-app and automatically synchronize them onto a Kubernetes cluster.
 
 ## Demo video
-[![Watch the video]([https://i.stack.imgur.com/Vp2cE.png](https://i.imgur.com/FwUCnbF.png))]([https://youtu.be/vt5fpE0bzS](https://youtu.be/DAebPqYb-Os)Y)
+[![Watch the video](https://i.imgur.com/FwUCnbF.png)](https://youtu.be/DAebPqYb-Os)
 Or click https://youtu.be/DAebPqYb-Os
 
 ## Steps to Set Up MVP
